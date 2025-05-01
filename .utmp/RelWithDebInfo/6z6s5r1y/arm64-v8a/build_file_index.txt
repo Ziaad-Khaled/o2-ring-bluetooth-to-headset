@@ -1,0 +1,2 @@
+D:\Unity\VR\Immerza\Immerza Contributer Experience\_Standard-Template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Unity\VR\Immerza\Immerza Contributer Experience\_Standard-Template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
